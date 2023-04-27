@@ -1,10 +1,10 @@
-### Hola mundo 👋
+### Hola Mundo 👋
 
 def siempreAprendiendo (🤔) {
   💻 ++
 }
 
-### Hi there 👋
+### Hello World 👋
 
 def allwaysLearning (🤔){
   💻 ++
