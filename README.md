@@ -1,12 +1,12 @@
 ### Hola mundo 👋
 
-🌱 Siempre aprendiendo {
+def siempreAprendiendo (🤔) {
   💻 ++
 }
 
 ### Hi there 👋
 
-🌱 Allways learning {
+def allwaysLearning (🤔){
   💻 ++
 }
 <!--
