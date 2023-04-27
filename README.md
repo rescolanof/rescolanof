@@ -1,5 +1,14 @@
+### Hola mundo 👋
+
+🌱 Siempre aprendiendo {
+  💻 ++
+}
+
 ### Hi there 👋
 
+🌱 Allways learning {
+  💻 ++
+}
 <!--
 **rescolanof/rescolanof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
