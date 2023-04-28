@@ -1,13 +1,13 @@
 ### Hola Mundo 👋
 
-def siempreAprendiendo (🤔) {
-  💻 ++
+def siempreAprendiendo (🤔) {</br>
+  💻 ++</br>
 }
 
 ### Hello World 👋
 
-def allwaysLearning (🤔){
-  💻 ++
+def allwaysLearning (🤔){</br>
+  💻 ++</br>
 }
 
 # Repos
