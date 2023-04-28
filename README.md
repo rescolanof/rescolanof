@@ -10,9 +10,8 @@ def allwaysLearning (🤔){
   💻 ++
 }
 
-## Repos
-# HelloGit
-Donde aprendí Git
+# Repos
+**HelloGit** -> Donde aprendí Git por comandos en Terminal
 
 <!--
 **rescolanof/rescolanof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
