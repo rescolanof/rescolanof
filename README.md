@@ -1,12 +1,12 @@
 ### Hola Mundo 👋
 
-def siempreAprendiendo (🤔) {</br>
+def **siempreAprendiendo** (🤔) {</br>
   💻 ++</br>
 }
 
 ### Hello World 👋
 
-def allwaysLearning (🤔){</br>
+def **allwaysLearning** (🤔){</br>
   💻 ++</br>
 }
 
