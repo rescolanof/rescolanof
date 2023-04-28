@@ -10,8 +10,8 @@ def allwaysLearning (🤔){
   💻 ++
 }
 
-### Repos:
-## HelloGit
+## Repos
+# HelloGit
 Donde aprendí Git
 
 <!--
